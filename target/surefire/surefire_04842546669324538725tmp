@@ -1,0 +1,5 @@
+#surefire_0
+#Wed Jul 11 11:46:30 CEST 2018
+user.dir=/home/hadoop/fasta_java/java-app
+localRepository=/home/hadoop/.m2/repository
+basedir=/home/hadoop/fasta_java/java-app
